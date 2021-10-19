@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://demiqin.github.io/"/>
-  <updated>2020-10-16T04:24:30.058Z</updated>
+  <updated>2020-10-16T04:24:30.000Z</updated>
   <id>https://demiqin.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://demiqin.github.io/2020/03/09/pub/"/>
     <id>https://demiqin.github.io/2020/03/09/pub/</id>
     <published>2020-03-10T03:32:57.000Z</published>
-    <updated>2020-10-16T04:24:30.058Z</updated>
+    <updated>2020-10-16T04:24:30.000Z</updated>
     
     <summary type="html">
     
@@ -37,7 +37,7 @@
     <link href="https://demiqin.github.io/2019/03/09/talk/"/>
     <id>https://demiqin.github.io/2019/03/09/talk/</id>
     <published>2019-03-10T04:32:57.000Z</published>
-    <updated>2020-10-16T04:19:50.366Z</updated>
+    <updated>2020-10-16T04:19:50.000Z</updated>
     
     <content type="html"><![CDATA[<p>This page contains the talk and activities I’ve presented and attend.</p>]]></content>
     
@@ -61,7 +61,7 @@
     <link href="https://demiqin.github.io/2017/12/12/Rhythm-Master/"/>
     <id>https://demiqin.github.io/2017/12/12/Rhythm-Master/</id>
     <published>2017-12-12T22:08:42.000Z</published>
-    <updated>2020-10-16T04:25:30.026Z</updated>
+    <updated>2020-10-16T04:25:30.000Z</updated>
     
     <content type="html"><![CDATA[<p>This page maintains some projects I was worked on.</p><h2 id="1-Rythm-Master-A-music-game"><a href="#1-Rythm-Master-A-music-game" class="headerlink" title="1 Rythm Master - A music game"></a>1 Rythm Master - A music game</h2><p>This code is written in 2015 when I was a sophomore student :)<br><img src="https://www.google.com/url?sa=i&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjjsJDd3PbgAhVMvKwKHUcjDQMQjRx6BAgBEAU&amp;url=https%3A%2F%2Fwww.techinasia.com%2Frhythm-master-review-keeping-the-beat-with-chinese-pop&amp;psig=AOvVaw3nWQ4CZnVEdrSBFZ2cuBpX&amp;ust=1552278109231641" alt="image"></p><p>This is a music game that uses Cocos Studio for user interface design. The game uses C++ programming. </p><p>When entering the game interface, you can choose the difficulty and songs. After that, click on the keyboard with your finger according to the rhythm of the music. According to the corresponding time is divided into three levels (perfect, good, miss)  and the corresponding score.</p><p>This is a very popular game in China two years ago. Developed by Tencent, I was absolutely a fan of this game. In order to play it even eat four hours in the restaurant (three and a half hours to play this game), but after the completion of this demo, I never touched this game.</p><p>Here is GitHub 👉 <a href="https://github.com/DemiQin/RhythmMaster" target="_blank" rel="noopener">code</a></p>]]></content>
     
