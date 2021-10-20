@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://demiqin.github.io/"/>
-  <updated>2021-10-20T04:33:08.890Z</updated>
+  <updated>2021-10-20T04:47:19.199Z</updated>
   <id>https://demiqin.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://demiqin.github.io/2020/03/09/pub/"/>
     <id>https://demiqin.github.io/2020/03/09/pub/</id>
     <published>2020-03-10T03:32:57.000Z</published>
-    <updated>2021-10-20T04:33:08.890Z</updated>
+    <updated>2021-10-20T04:47:19.199Z</updated>
     
-    <content type="html"><![CDATA[<p>Yu Qin, Carola Wenk, Fasy, Brittany Terese and Brian Summa. ”A Domain-Oblivious Approach for Learning Concise Repre- sentations of Filtered Topological Spaces.” IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021), Accepted.</p><p>Fasy, Brittany Terese, Yu Qin, Brian Summa, and Carola Wenk. ”Comparing Distance Metrics on Vectorized Persistence Sum- maries.” NeurIPS 2020 Workshop: Topological Data Analysis and Beyond.</p><p>Liu, Yanjun, Junjian Huang, Yu Qin, and Xinbo Yang. ”Finite-time synchronization of complex-valued neural networks with finite-time distributed delays.” Neurocomputing 416 (2020): 152-157.</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<p>[1]Yu Qin, Carola Wenk, Fasy, Brittany Terese and Brian Summa. ”A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces.” IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021).<br><a href="https://tulanevisgraphics.bitbucket.io/publications/pd_hash/index.html" target="_blank" rel="noopener">Website</a></p><p>[2]Fasy, Brittany Terese, Yu Qin, Brian Summa, and Carola Wenk. ”Comparing Distance Metrics on Vectorized Persistence Summaries.” NeurIPS 2020 Workshop: Topological Data Analysis and Beyond.<br><a href="https://openreview.net/pdf?id=X1bxKJo5_qL" target="_blank" rel="noopener">PDF</a></p><p>[3]Liu, Yanjun, Junjian Huang, Yu Qin, and Xinbo Yang. ”Finite-time synchronization of complex-valued neural networks with finite-time distributed delays.” Neurocomputing 416 (2020): 152-157.</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Yu Qin, Carola Wenk, Fasy, Brittany Terese and Brian Summa. ”A Domain-Oblivious Approach for Learning Concise Repre- sentations of Filtered Topological Spaces.” IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021), Accepted.&lt;/p&gt;
-&lt;p&gt;Fasy, Brittany Terese, Yu Qin, Brian Summa, and Carola Wenk. ”Comparing Distance Metrics on Vectorized Persistence Sum- maries.” NeurIPS 2020 Workshop: Topological Data Analysis and Beyond.&lt;/p&gt;
-&lt;p&gt;Liu, Yanjun, Junjian Huang, Yu Qin, and Xinbo Yang. ”Finite-time synchronization of complex-valued neural networks with finite-time distributed delays.” Neurocomputing 416 (2020): 152-157.&lt;/p&gt;
+      &lt;p&gt;[1]Yu Qin, Carola Wenk, Fasy, Brittany Terese and Brian Summa. ”A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces.” IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE VIS 2021).&lt;br&gt;&lt;a href=&quot;https://tulanevisgraphics.bitbucket.io/publications/pd_hash/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]Fasy, Brittany Terese, Yu Qin, Brian Summa, and Carola Wenk. ”Comparing Distance Metrics on Vectorized Persistence Summaries.” NeurIPS 2020 Workshop: Topological Data Analysis and Beyond.&lt;br&gt;&lt;a href=&quot;https://openreview.net/pdf?id=X1bxKJo5_qL&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3]Liu, Yanjun, Junjian Huang, Yu Qin, and Xinbo Yang. ”Finite-time synchronization of complex-valued neural networks with finite-time distributed delays.” Neurocomputing 416 (2020): 152-157.&lt;/p&gt;
     
     </summary>
     
@@ -43,17 +43,23 @@
     <link href="https://demiqin.github.io/2019/03/09/talk/"/>
     <id>https://demiqin.github.io/2019/03/09/talk/</id>
     <published>2019-03-10T04:32:57.000Z</published>
-    <updated>2020-10-16T04:19:50.000Z</updated>
+    <updated>2021-10-20T04:49:48.987Z</updated>
     
-    <content type="html"><![CDATA[<p>This page contains the talk and activities I’ve presented and attend.</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>VIS 2021. Oral presentation: A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces, Virtual 2021.</li></ul><ul><li>IMSI Workshop. Poster presentation: Comparing Distance Metrics on Vectorized Persistence Summaries, University of Chicago(remote), IL 2021.</li></ul><ul><li>NeurIPS Workshop on Topological Data Analysis and Beyond. Poster presentation: Comparing Distance Metrics on Vectorized Persistence Summaries, Virtual 2020.</li></ul><ul><li>Tulane Computer Science Department. Interdisciplinary project presentation: Fast Prostate Cancer Diagnosis using Topological Data Analysis, Tulane University, LA 2020.<a id="more"></a></li></ul>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;This page contains the talk and activities I’ve presented and attend.&lt;/p&gt;
-
-      
+      &lt;ul&gt;
+&lt;li&gt;VIS 2021. Oral presentation: A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces, Virtual 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;IMSI Workshop. Poster presentation: Comparing Distance Metrics on Vectorized Persistence Summaries, University of Chicago(remote), IL 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;NeurIPS Workshop on Topological Data Analysis and Beyond. Poster presentation: Comparing Distance Metrics on Vectorized Persistence Summaries, Virtual 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Tulane Computer Science Department. Interdisciplinary project presentation: Fast Prostate Cancer Diagnosis using Topological Data Analysis, Tulane University, LA 2020.
     
     </summary>
     
@@ -63,21 +69,18 @@
   </entry>
   
   <entry>
-    <title>Project</title>
+    <title>Grant Project</title>
     <link href="https://demiqin.github.io/2017/12/12/Rhythm-Master/"/>
     <id>https://demiqin.github.io/2017/12/12/Rhythm-Master/</id>
     <published>2017-12-12T22:08:42.000Z</published>
-    <updated>2020-10-16T04:25:30.000Z</updated>
+    <updated>2021-10-20T04:50:05.514Z</updated>
     
-    <content type="html"><![CDATA[<p>This page maintains some projects I was worked on.</p><h2 id="1-Rythm-Master-A-music-game"><a href="#1-Rythm-Master-A-music-game" class="headerlink" title="1 Rythm Master - A music game"></a>1 Rythm Master - A music game</h2><p>This code is written in 2015 when I was a sophomore student :)<br><img src="https://www.google.com/url?sa=i&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjjsJDd3PbgAhVMvKwKHUcjDQMQjRx6BAgBEAU&amp;url=https%3A%2F%2Fwww.techinasia.com%2Frhythm-master-review-keeping-the-beat-with-chinese-pop&amp;psig=AOvVaw3nWQ4CZnVEdrSBFZ2cuBpX&amp;ust=1552278109231641" alt="image"></p><p>This is a music game that uses Cocos Studio for user interface design. The game uses C++ programming. </p><p>When entering the game interface, you can choose the difficulty and songs. After that, click on the keyboard with your finger according to the rhythm of the music. According to the corresponding time is divided into three levels (perfect, good, miss)  and the corresponding score.</p><p>This is a very popular game in China two years ago. Developed by Tencent, I was absolutely a fan of this game. In order to play it even eat four hours in the restaurant (three and a half hours to play this game), but after the completion of this demo, I never touched this game.</p><p>Here is GitHub 👉 <a href="https://github.com/DemiQin/RhythmMaster" target="_blank" rel="noopener">code</a></p>]]></content>
+    <content type="html"><![CDATA[<p>QUBBD: Quantifying Morphologic Phenotypes in Prostate Cancer - Developing Topological Descriptors for Machine Learning Algorithms, NSF-DMS 1664848</p><p>EAGER: Scalable, Content-Based, Domain-Agnostic Search of Scientific Data through Concise Topological Representations, NSF-IIS 2136744</p><a id="more"></a><h2 id="QUBBD-Quantifying-Morphologic-Phenotypes-in-Prostate-Cancer-Developing-Topological-Descriptors-for-Machine-Learning-Algorithms-NSF-DMS-1664848"><a href="#QUBBD-Quantifying-Morphologic-Phenotypes-in-Prostate-Cancer-Developing-Topological-Descriptors-for-Machine-Learning-Algorithms-NSF-DMS-1664848" class="headerlink" title="QUBBD: Quantifying Morphologic Phenotypes in Prostate Cancer - Developing Topological Descriptors for Machine Learning Algorithms, NSF-DMS 1664848"></a>QUBBD: Quantifying Morphologic Phenotypes in Prostate Cancer - Developing Topological Descriptors for Machine Learning Algorithms, NSF-DMS 1664848</h2><p>Abstract: The long-term goal of this project is to develop quantitative methodology for detecting geometric and topological features in point clouds extracted from (histology) images. Of particular relevance, this project considers the setting of prostate cancer classification, which is based on a pathologist grading of histology slides using the Gleason grading system. These pathology slides are a source of biomedical big data that are increasingly available as archived material. Developing these quantitative methods will be a significant advance towards a (semi-)automated quantification of prostate cancer aggressiveness. This award supports an interdisciplinary team of investigators in computational mathematics, computer science, biomedical engineering, and pathology to develop mathematical and computational tools based on topological descriptors and machine learning in order to distinguish between different morphological types of prostate cancer.<br>This research will develop quantitative topological descriptors (e.g., persistence diagrams and summaries) that describe natural histologic phenotypes in prostate cancer, in order to provide explanatory information to assist in providing improved diagnostics/prognostics and insight into the best course of treatment for the patient. This will be accomplished through developing graphical models via unsupervised machine learning that increase our understanding of prostate cancer subtypes. The long-term goal is to develop imaging biomarkers that better identify indolent from aggressive prostate cancer compared to existing, subjective, and variable human observer analyses (i.e., the Gleason score). This project takes steps towards a novel quantitative methodology for prostate cancer classification, as well as towards developing topological methods for statistically distinguishing different types of glandular architectures.</p><p><a href="http://www.cs.tulane.edu/~carola/research/qubbd.html" target="_blank" rel="noopener">Website</a></p><h2 id="EAGER-Scalable-Content-Based-Domain-Agnostic-Search-of-Scientific-Data-through-Concise-Topological-Representations-NSF-IIS-2136744"><a href="#EAGER-Scalable-Content-Based-Domain-Agnostic-Search-of-Scientific-Data-through-Concise-Topological-Representations-NSF-IIS-2136744" class="headerlink" title="EAGER: Scalable, Content-Based, Domain-Agnostic Search of Scientific Data through Concise Topological Representations, NSF-IIS 2136744"></a>EAGER: Scalable, Content-Based, Domain-Agnostic Search of Scientific Data through Concise Topological Representations, NSF-IIS 2136744</h2>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;This page maintains some projects I was worked on.&lt;/p&gt;
-&lt;h2 id=&quot;1-Rythm-Master-A-music-game&quot;&gt;&lt;a href=&quot;#1-Rythm-Master-A-music-game&quot; class=
-      
+      &lt;p&gt;QUBBD: Quantifying Morphologic Phenotypes in Prostate Cancer - Developing Topological Descriptors for Machine Learning Algorithms, NSF-DMS 1664848&lt;/p&gt;
+&lt;p&gt;EAGER: Scalable, Content-Based, Domain-Agnostic Search of Scientific Data through Concise Topological Representations, NSF-IIS 2136744&lt;/p&gt;
     
     </summary>
     
