@@ -90,5 +90,6 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/demiqin/demiqin.github.io
+  repo: git@github.com:demiqin/demiqin.github.io.git
   branch: master
+  token: $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
