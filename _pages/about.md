@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: Yu-Demi-Qin-photo.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: 
+    <p>New Orleans, LA 70118</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! Welcome to the space of 秦瑜, and you can call me Demi 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a Ph.D. candidate in Computer Science at Tulane University, specializing in machine learning, topological data analysis, and scientific visualization. My dissertation, titled [Metric Learning on Topological Descriptors](https://www.canva.com/design/DAFNSh0oR60/j7udMbLvBw3E9MfwJKfgGA/view?utm_content=DAFNSh0oR60&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/). In my research, I push the boundaries of how we understand and interpret complex datasets efficiently.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research develops computational methods that simplify and clarify complex data patterns, especially in large datasets. I leverage **machine learning** and **visualization** to understand data structures and similarities from a **topological** perspective. I create models that not only measure data similarities at scale but also explain the 'why' behind these similarities. My work finds applications in diverse areas: enhancing medical imaging techniques for better diagnostic accuracy, advancing our understanding of climate models for more precise weather forecasting and climate change analysis, and increasing efficiency in supply chain management.
