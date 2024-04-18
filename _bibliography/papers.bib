@@ -11,12 +11,15 @@
 @article{qin2021domain,
   title={A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces for Clustering},
   author={Qin, Yu and Fasy, Brittany Terese and Wenk, Carola and Summa, Brian},
+  abstract={Persistence diagrams have been widely used to quantify the underlying features of filtered topological spaces in data visualization. In many applications, computing distances between diagrams is essential; however, computing these distances has been challenging due to the computational cost. In this paper, we propose a persistence diagram hashing framework that learns a binary code representation of persistence diagrams, which allows for fast computation of distances. This framework is built upon a generative adversarial network (GAN) with a diagram distance loss function to steer the learning process. Instead of using standard representations, we hash diagrams into binary codes, which have natural advantages in large-scale tasks. The training of this model is domain-oblivious in that it can be computed purely from synthetic, randomly created diagrams. As a consequence, our proposed method is directly applicable to various datasets without the need for retraining the model. These binary codes, when compared using fast Hamming distance, better maintain topological similarity properties between datasets than other vectorized representations. To evaluate this method, we apply our framework to the problem of diagram clustering and we compare the quality and performance of our approach to the state-of-the-art. In addition, we show the scalability of our approach on a dataset with 10k persistence diagrams, which is not possible with current techniques. Moreover, our experimental results demonstrate that our method is significantly faster with the potential of less memory usage, while retaining comparable or better quality comparisons.},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   volume={28},
   number={1},
   pages={302--312},
   year={2021},
   publisher={IEEE},
+  preview={hash_pd.png},
+  html={https://tulanevisgraphics.bitbucket.io/publications/pd_hash/index.html},
   selected={true}
 }
 
@@ -47,6 +50,8 @@
   pages={93--103},
   year={2023},
   organization={IEEE},
+  html={https://arxiv.org/pdf/2309.13185v1.pdf},
+  preview={TOSCA.jpg},
   selected={true}
 }
 
@@ -56,13 +61,18 @@
   booktitle={2023 Workshop on Energy Data Visualization (EnergyVis)},
   pages={16--20},
   year={2023},
+  video={https://drive.google.com/file/d/1skCfnTBXN7FmMmB2VnSTjLtMJZMAVFlY/view},
+  html={https://csdl-downloads.ieeecomputer.org/proceedings/energyvis/2023/3028/00/302800a016.pdf?Expires=1713502901&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2VuZXJneXZpcy8yMDIzLzMwMjgvMDAvMzAyODAwYTAxNi5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTM1MDI5MDF9fX1dfQ__&Signature=ksyUylRMlQ-c3b-4p80IWZdjEsI-qtY0TwEzMiHVyPJlW2wajYyLt4O6SX0tK6NAG6rdfIoxB-KYMHHOpjSrFW7MIXeRetXjm8w7oJPm6DTuCl18U3AbvnbJGAEBlOzZhkf~S6koG9TqfDF9XaHVMtBMZ1dJR1rUGnqH6CxKdcUti4XwUFXpqMf-yf4bm7eZkOF6OwT7Hzd0MWQNgVMlLmdBAE7ewKIdgkKrYyVI2f6VmLhRrpJfcWlDaGsuYNln2B9iPNwZYmZIpBW2GVej~guiOIk8X2-bK0~h-snYT4H-T3JPrntNR-ogtlyWRsO3Z4PgjBIfmh9AkStYFyGisw__&Key-Pair-Id=K12PMWTCQBDMDT},
   organization={IEEE}
 }
 
 @article{qin2024rapid,
   title={Rapid and Precise Topological Comparison with Merge Tree Neural Networks},
   author={Qin, Yu and Fasy, Brittany Terese and Wenk, Carola and Summa, Brian},
+  abstract={Merge trees are a valuable tool in scientific visualization of scalar fields; however, current methods for merge tree comparisons are computationally expensive, primarily due to the exhaustive matching between tree nodes. To address this challenge, we introduce the merge tree neural networks (MTNN), a learned neural network model designed for merge tree comparison. The MTNN enables rapid and high-quality similarity computation. We first demonstrate how graph neural networks (GNNs), which emerged as an effective encoder for graphs, can be trained to produce embeddings of merge trees in vector spaces that enable efficient similarity comparison. Next, we formulate the novel MTNN model that further improves the similarity comparisons by integrating the tree and node embeddings with a new topological attention mechanism. We demonstrate the effectiveness of our model on real-world data in different domains and examine our model's generalizability across various datasets. Our experimental analysis demonstrates our approach's superiority in accuracy and efficiency. In particular, we speed up the prior state-of-the-art by more than 100x on the benchmark datasets while maintaining an error rate below 0.1%.},
   year={2024},
   publisher={arXiv},
+  html={https://arxiv.org/pdf/2404.05879.pdf},
+  preview={mtnn_teaser.jpg},
   selected={true}
 }
