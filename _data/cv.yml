@@ -24,7 +24,7 @@
   contents:
     - title: Research Science Intern
       institution: Hitachi America, Ltd.
-      year: 2023 - Present
+      year: 2023 - 2024
       description:
         - Partnered with Stanford University's Dr. Jure Leskovec's lab, co-developing advanced models for supply chains using Graph Neural Networks (GNN) capable of temporal graph analysis and prediction. 
         - Developed the first temporal hyper-heterogeneous graph network in collaboration with the Stanford team. This innovative GNN framework models complex supply chain networks, forecasting future transactions between firms, predicting inventory levels, and estimating the Bill of Materials (BoM). The model serves as a strategic tool for inventory management, risk assessment for product shortages, and demand forecasting. 
