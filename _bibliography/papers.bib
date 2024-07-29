@@ -12,7 +12,7 @@
   title={A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces for Clustering},
   author={Qin, Yu and Fasy, Brittany Terese and Wenk, Carola and Summa, Brian},
   abstract={Persistence diagrams have been widely used to quantify the underlying features of filtered topological spaces in data visualization. In many applications, computing distances between diagrams is essential; however, computing these distances has been challenging due to the computational cost. In this paper, we propose a persistence diagram hashing framework that learns a binary code representation of persistence diagrams, which allows for fast computation of distances. This framework is built upon a generative adversarial network (GAN) with a diagram distance loss function to steer the learning process. Instead of using standard representations, we hash diagrams into binary codes, which have natural advantages in large-scale tasks. The training of this model is domain-oblivious in that it can be computed purely from synthetic, randomly created diagrams. As a consequence, our proposed method is directly applicable to various datasets without the need for retraining the model. These binary codes, when compared using fast Hamming distance, better maintain topological similarity properties between datasets than other vectorized representations. To evaluate this method, we apply our framework to the problem of diagram clustering and we compare the quality and performance of our approach to the state-of-the-art. In addition, we show the scalability of our approach on a dataset with 10k persistence diagrams, which is not possible with current techniques. Moreover, our experimental results demonstrate that our method is significantly faster with the potential of less memory usage, while retaining comparable or better quality comparisons.},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
+  journal={IEEE Transactions on Visualization and Computer Graphics (VIS)},
   volume={28},
   number={1},
   pages={302--312},
@@ -47,6 +47,7 @@
   title={Visualizing Topological Importance: A Class-Driven Approach},
   author={Qin, Yu and Fasy, Brittany Terese and Wenk, Carola and Summa, Brian},
   booktitle={2023 Topological Data Analysis and Visualization (TopoInVis)},
+  abstract={This paper presents the first approach to visualize the importance of topological features that define classes of data.  Topological features, with their ability to abstract the fundamental structure of complex data, are an integral component of visualization and analysis pipelines.  Although not all topological features present in data are of equal importance. To date, the default definition of feature importance is often assumed and fixed. This work shows how proven explainable deep learning approaches can be adapted for use in topological classification. In doing so, it provides the first technique that illuminates what topological structures are important in each dataset in regards to their class label.  In particular, the approach uses a learned metric classifier with a density estimator of the points of a persistence diagram as input. This metric learns how to reweigh this density such that classification accuracy is high. By extracting this weight, an importance field on persistent point density can be created.  This provides an intuitive representation of persistence point importance that can be used to drive new visualizations. This work provides two examples:  Visualization on each diagram directly and, in the case of sublevel set filtrations on images, directly on the images themselves. This work highlights real-world examples of this approach visualizing the important topological features in graph, 3D shape, and medical image data.},
   pages={93--103},
   year={2023},
   organization={IEEE},
@@ -70,9 +71,25 @@
   title={Rapid and Precise Topological Comparison with Merge Tree Neural Networks},
   author={Qin, Yu and Fasy, Brittany Terese and Wenk, Carola and Summa, Brian},
   abstract={Merge trees are a valuable tool in scientific visualization of scalar fields; however, current methods for merge tree comparisons are computationally expensive, primarily due to the exhaustive matching between tree nodes. To address this challenge, we introduce the merge tree neural networks (MTNN), a learned neural network model designed for merge tree comparison. The MTNN enables rapid and high-quality similarity computation. We first demonstrate how graph neural networks (GNNs), which emerged as an effective encoder for graphs, can be trained to produce embeddings of merge trees in vector spaces that enable efficient similarity comparison. Next, we formulate the novel MTNN model that further improves the similarity comparisons by integrating the tree and node embeddings with a new topological attention mechanism. We demonstrate the effectiveness of our model on real-world data in different domains and examine our model's generalizability across various datasets. Our experimental analysis demonstrates our approach's superiority in accuracy and efficiency. In particular, we speed up the prior state-of-the-art by more than 100x on the benchmark datasets while maintaining an error rate below 0.1%.},
+  journal={IEEE Transactions on Visualization and Computer Graphics (VIS)},
   year={2024},
-  publisher={Accepted by IEEE VIS 2024},
+  publisher={IEEE},
   html={https://arxiv.org/pdf/2404.05879.pdf},
   preview={mtnn_square.png},
   selected={true}
+}
+
+@article{chang2024learningproductionfunctionssupply,
+  title={Learning Production Functions for Supply Chains with Graph Neural Networks}, 
+  author={Serina Chang and Zhiyin Lin and Benjamin Yan and Swapnil Bembde and Qi Xiu and Chi Heem Wong and Yu Qin and Frank Kloster and Alex Luo and Raj Palleti and Jure Leskovec},
+  abstract={The global economy relies on the flow of goods over supply chain networks, with nodes as firms and edges as transactions between firms.
+  While we may observe these external transactions, they are governed by unseen production functions, which determine how firms internally transform the input products they receive into output products that they sell. In this setting, it can be extremely valuable to infer these production functions, to better understand and improve supply chains, and to forecast future transactions more accurately.
+  However, existing graph neural networks (GNNs) cannot capture these hidden relationships between nodes' inputs and outputs.
+  Here, we introduce a new class of models for this setting, by combining temporal GNNs with a novel inventory module, which learns production functions via attention weights and a special loss function.
+  We evaluate our models extensively on real supply chains data, along with data generated from our new open-source simulator, SupplySim. Our models successfully infer production functions, with a 6-50\% improvement over baselines, and forecast future transactions on real and synthetic data, outperforming baselines by 11-62\%.},
+  year={2024},
+  eprint={2407.18772},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  html={https://arxiv.org/abs/2407.18772}, 
 }
