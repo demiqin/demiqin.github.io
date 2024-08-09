@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. <br> The proceedings of IEEE VIS are published as a special issue of the journal TVCG.
+description: publications by categories in reversed chronological order. <br> The proceedings of IEEE VIS are published as a special issue of the journal TVCG.  <br>🏆 Best Paper Award.
 nav: true
 nav_order: 1
 ---
