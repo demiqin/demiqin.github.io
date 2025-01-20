@@ -11,7 +11,7 @@
   contents:
     - title: Graduate Intern
       institution: National Renewable Energy Laboratory (NREL)
-      year: 2022 - Present
+      year: 2022 - 2024
       description:
         - Enhanced the detection of extreme climate events by applying Topological Data Analysis (TDA) to structural time-series analysis of wind data from global climate models. Achieved a significant computational speed-up, reducing the detection time from quadratic to linear complexity, translating to a minimum 10-fold increase in efficiency. Work published in the EnergyVis 2023 .
         - Transformed complex datasets from simulated power systems experiencing various outage scenarios into a computationally efficient topological framework. Developed a topology-enhanced GNN model that effectively predicts power outages, with a case study focused on the Texas power grid.
@@ -19,7 +19,7 @@
       institution: Hitachi America, Ltd.
       year: 2023 - 2024
       description:
-        - Partnered with Stanford University's Dr. Jure Leskovec's lab, co-developing advanced models for supply chains using Graph Neural Networks (GNN) capable of temporal graph analysis and prediction. 
+        - Collaborated with Stanford University's Dr. Jure Leskovec's lab, co-developing advanced models for supply chains using Graph Neural Networks (GNN) capable of temporal graph analysis and prediction. 
         - Developed the first temporal hyper-heterogeneous graph network in collaboration with the Stanford team. This innovative GNN framework models complex supply chain networks, forecasting future transactions between firms, predicting inventory levels, and estimating the Bill of Materials (BoM). The model serves as a strategic tool for inventory management, risk assessment for product shortages, and demand forecasting. 
         - Introduced an interpretable sequence prediction model utilizing a custom Recurrent Neural Network (RNN) enhanced with an attention mechanism. This model precisely forecasts product consumption and uncovers underlying patterns in inventory data, enhancing BoM estimations with improved accuracy. 
         
