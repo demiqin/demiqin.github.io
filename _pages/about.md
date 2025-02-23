@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to the space of 秦瑜, and you can call me Demi 👋
 
-I'm a Ph.D. candidate in Computer Science at Tulane University, specializing in machine learning, topological data analysis, and advanced visualization. My dissertation, titled [Metric Learning on Topological Descriptors](https://www.canva.com/design/DAFNSh0oR60/j7udMbLvBw3E9MfwJKfgGA/view?utm_content=DAFNSh0oR60&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
+I'm a recent Ph.D. in Computer Science at Tulane University, specializing in machine learning, topological data analysis, and advanced visualization. My dissertation, titled [Metric Learning on Topological Descriptors](https://www.canva.com/design/DAFNSh0oR60/j7udMbLvBw3E9MfwJKfgGA/view?utm_content=DAFNSh0oR60&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
 
   My research falls at the intersection of **machine learning (ML), visualization (VIS) and topological data analysis (TDA)**. I aim to push the boundaries of how we understand and interpret complex data efficiently. Using advanced visualization techniques and ML, I enhance large data analysis and explore the shapes and geometries of complex datasets, from scalar fields and images to 3D shapes and graphs. These techniques enable scalable data capture and analysis, potentially improving decisions that affect billions daily.<br>
   

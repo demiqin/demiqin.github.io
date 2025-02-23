@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 We got the **Best Paper Award** at VIS 2024! I'm honored to be giving a plenary talk right after the opening ceremony. 
+🎉 We got the **Best Paper Award** at VIS 2024 (top 1%)! I'm honored to be giving a plenary talk right after the opening ceremony. 
