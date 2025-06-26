@@ -9,7 +9,7 @@ profile:
   image: Yu-Demi-Qin-photo.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
-    # <p>New Orleans, LA 70118</p>
+    # <p>Denver, CO 80401</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,11 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to the space of 秦瑜, and you can call me Demi 👋
 
-I'm a recent Ph.D. in Computer Science at Tulane University, specializing in machine learning, topological data analysis, and advanced visualization. My dissertation, titled [Metric Learning on Topological Descriptors](https://www.canva.com/design/DAFNSh0oR60/j7udMbLvBw3E9MfwJKfgGA/view?utm_content=DAFNSh0oR60&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
+I’m now a Research Scientist at the Data, Analysis, and Visualization team in the Computational Science Center at National Renewable Energy Laboratory (**NREL**). My research focuses on applying **machine learning (ML), topological data analysis (TDA), and visualization** methods to complex data. My dissertation, titled [Metric Learning on Topological Descriptors](https://drive.google.com/file/d/1ab-mUhYWvdHWsqyVPu3eTM25cbmY84kv/view?usp=sharing) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
 
-  My research falls at the intersection of **machine learning (ML), visualization (VIS) and topological data analysis (TDA)**. I aim to push the boundaries of how we understand and interpret complex data efficiently. Using advanced visualization techniques and ML, I enhance large data analysis and explore the shapes and geometries of complex datasets, from scalar fields and images to 3D shapes and graphs. These techniques enable scalable data capture and analysis, potentially improving decisions that affect billions daily.<br>
-  
-  My work finds applications in diverse areas: enhancing medical imaging for better diagnostics, advancing climate models for precise weather forecasting and climate change analysis, and increasing efficiency in supply chain management.
+  My goal is to enhance the understanding of complex data efficiently. Using advanced visualization techniques and ML, I enhance large data analysis and explore the shapes and geometries of complex datasets, from scalar fields and images to 3D shapes and graphs. These techniques enable scalable data capture and analysis, potentially improving decisions that affect billions daily.<br>
 
 <!-- In my research, I push the boundaries of how we understand and interpret complex datasets efficiently. I leverage **machine learning** and **visualization** to understand data structures and similarities from a **topological** perspective. I create models that not only measure data similarities at scale but also explain the 'why' behind these similarities. My work finds applications in diverse areas: enhancing medical imaging techniques for better diagnostic accuracy, advancing our understanding of climate models for more precise weather forecasting and climate change analysis, and increasing efficiency in supply chain management. 
 
