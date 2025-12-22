@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to the space of 秦瑜, and you can call me Demi 👋
 
-I’m now a Research Scientist at the Data, Analysis, and Visualization team in the Computational Science Center at National Laboratory of the Rockies(**NLR**). My research focuses on applying **machine learning (ML), topological data analysis (TDA), and visualization** methods to complex data. My dissertation, titled [Metric Learning on Topological Descriptors](https://drive.google.com/file/d/1ab-mUhYWvdHWsqyVPu3eTM25cbmY84kv/view?usp=sharing) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
+I’m now a Research Scientist at the Data, Analysis, and Visualization team in the Computational Science Center at National Laboratory of the Rockies (**NLR**). My research focuses on applying **machine learning (ML), topological data analysis (TDA), and visualization** methods to complex data. My dissertation, titled [Metric Learning on Topological Descriptors](https://drive.google.com/file/d/1ab-mUhYWvdHWsqyVPu3eTM25cbmY84kv/view?usp=sharing) is advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/).
 
   My goal is to enhance the understanding of complex data efficiently. Using advanced visualization techniques and ML, I enhance large data analysis and explore the shapes and geometries of complex datasets, from scalar fields and images to 3D shapes and graphs. These techniques enable scalable data capture and analysis, potentially improving decisions that affect billions daily.<br>
 
