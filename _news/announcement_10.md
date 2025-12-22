@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 I’ve joined NREL's Data, Analysis, and Visualization (DAV) team as a Research Scientist! I’m excited to work on ML, TDA, and visualization for energy systems, integrating them with high-performance and immersive computing tools. If you’re interested in collaboration, whether in energy analytics, renewable systems modeling, or computational visualization, please reach out at [demi.qin@nrel.gov](mailto:demi.qin@nrel.gov).
+🚀 I’ve joined National Laboratory of the Rockies (NLR) as a Research Scientist on the 's Data, Analysis, and Visualization team! I’m excited to continue working on ML, TDA, and visualization for critical materials and energy systems. 
