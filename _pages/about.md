@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to the space of 秦瑜, and you can call me Demi 👋
 
-I’m a Research Scientist on the Data, Analysis, and Visualization team in the Computational Science Center at the National Laboratory of the Rockies (NLR). I’m always happy to connect about research, collaborations, and talks.
+I’m a Research Scientist on the Data, Analysis, and Visualization team in the Computational Science Center at the National Laboratory of the Rockies (NLR). If you're interested in my work, I’m always happy to connect.
 
-My research sits at the intersection of **machine learning (ML)**, **topological data analysis (TDA)**, and **visualization**. I develop methods that help us better understand complex data at scale, with applications spanning scalar fields, images, 3D shapes, and graphs. More broadly, I’m interested in how geometric and topological structure can improve large-scale data analysis and support better decision-making in scientific and energy systems. My work has been recognized with a **VIS Best Paper Award**.
+My research sits at the intersection of **machine learning (ML)**, **topological data analysis (TDA)**, and **visualization**. I develop methods that help us better understand complex data at scale, with applications spanning scalar fields, images, 3D shapes, and graphs. More broadly, I’m interested in how geometric and topological structure can improve large-scale data analysis and support better decision-making in scientific and energy systems. My work has been recognized with **VIS Best Paper Award**.
 
 Previously, I completed my PhD in Computer Science at Tulane University, where I was advised by Prof. [Brian Summa](https://tulanevisgraphics.bitbucket.io/) and Prof. [Carola Wenk](https://www.cs.tulane.edu/~carola/). My dissertation focused on learning meaningful representations for topological data.
 
