@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist in machine learning, topological data analysis, and visualization
 
 profile:
   align: right
