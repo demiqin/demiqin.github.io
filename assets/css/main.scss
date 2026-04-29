@@ -21,3 +21,52 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.home-intro .lead {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.home-section {
+  margin-top: 1.75rem;
+}
+
+.home-section h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.7rem;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.research-tag {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(52, 152, 219, 0.1);
+  border: 1px solid rgba(52, 152, 219, 0.18);
+  font-size: 0.92rem;
+  line-height: 1.2;
+}
+
+.highlight-note {
+  padding: 0.95rem 1.1rem;
+  border-left: 3px solid rgba(52, 152, 219, 0.65);
+  background: rgba(52, 152, 219, 0.06);
+  border-radius: 0.5rem;
+}
+
+.highlight-note p:last-child {
+  margin-bottom: 0;
+}
+
+.profile .more-info p {
+  margin-bottom: 0.35rem;
+}

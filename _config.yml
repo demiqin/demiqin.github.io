@@ -8,7 +8,7 @@ middle_name:
 last_name: Qin
 email: yqin2@tulane.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD in CS doing topological data analysis, machine learning and visualization.
+  Research Scientist working on machine learning, topological data analysis, and visualization for scientific and energy systems.
 #footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -583,4 +583,3 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
-
