@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 Invited talks at AMS Fall Southeastern Meeting: <a href="https://meetings.ams.org/math/fall2025se/meetingapp.cgi/Paper/50677">"Learning Topological Signatures: TDA and ML at Scale"</a>!   
+🎤 Invited talk at AMS Fall Southeastern Meeting: <a href="https://meetings.ams.org/math/fall2025se/meetingapp.cgi/Paper/50677">"Learning Topological Signatures: TDA and ML at Scale"</a>!   

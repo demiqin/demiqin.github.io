@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 I’m giving a talk at **SIAM UQ 2026** on <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=153730">"Constraint-Guided Conditional Diffusion for Power-Grid Generation"</a>!
+🎤 Invited talk at **SIAM UQ 2026** on <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=153730">"Constraint-Guided Conditional Diffusion for Power-Grid Generation"</a>!
