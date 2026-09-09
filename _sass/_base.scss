@@ -316,8 +316,20 @@ ul.task-list input[type="checkbox"] {
         transition-property: all 0.2s ease-in-out;
       }
 
+      .alphaxiv-icon {
+        color: var(--global-text-color);
+        display: inline-block;
+        font-size: 0.42em;
+        font-weight: 600;
+        vertical-align: middle;
+      }
+
       &:hover {
         i::before {
+          color: var(--global-theme-color);
+        }
+
+        .alphaxiv-icon {
           color: var(--global-theme-color);
         }
       }
